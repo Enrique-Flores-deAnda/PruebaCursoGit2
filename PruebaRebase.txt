@@ -3,3 +3,6 @@ Linea 2 Original rebase
 ---------------------------
 Linea 3 desde rebase
 Linea 4 desde rebase
+---------------------------
+Linea 5 desde rebase
+Linea 6 desde rebase
