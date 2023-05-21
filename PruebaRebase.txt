@@ -6,3 +6,9 @@ Linea 4 desde master
 !!!!!!!!!!!!!!!!!!!!!!!!!!
 Linea 5 desde master
 Linea 6 desde master
+---------------------------
+Linea 3 desde rebase
+Linea 4 desde rebase
+---------------------------
+Linea 5 desde rebase
+Linea 6 desde rebase
